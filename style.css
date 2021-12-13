@@ -33,7 +33,7 @@
   position: absolute;
   display: none;
   left: 0;
-  top: 0;
+  top: 39px;
 }
 
 .navigation__sub-item {
@@ -47,13 +47,13 @@
 }
 
 .navigation__item:hover {
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 .navigation__dabl-list {
   display: none;
   position: absolute;
-  left: 110px;
+  left: 119px;
   top: 0;
 }
 
